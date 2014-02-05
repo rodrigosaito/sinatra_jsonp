@@ -1,0 +1,24 @@
+# Logfile created on 2014-02-05 09:12:27 +0000 by logger.rb/44203
+I, [2014-02-05T09:12:27.946575 #13965]  INFO -- : 0:  backports (3.5.0) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/backports-3.5.0.gemspec
+I, [2014-02-05T09:12:33.011506 #13965]  INFO -- : 0:  multi_json (1.8.4) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-05T09:12:42.956933 #13965]  INFO -- : 0:  rack (1.5.2) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/rack-1.5.2.gemspec
+I, [2014-02-05T09:12:47.384960 #13965]  INFO -- : 0:  rack-protection (1.5.2) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-05T09:12:54.107108 #13965]  INFO -- : 0:  rack-test (0.6.2) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-05T09:12:59.976418 #13965]  INFO -- : 0:  tilt (1.4.1) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/tilt-1.4.1.gemspec
+I, [2014-02-05T09:13:06.387514 #13965]  INFO -- : 0:  sinatra (1.4.4) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-05T09:13:10.927261 #13965]  INFO -- : 0:  sinatra-contrib (1.4.2) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-02-05T09:13:10.928526 #13965]  INFO -- : 0:  bundler (1.5.0) from /usr/local/rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-05T09:32:28.927639 #14450]  INFO -- : 0:  backports (3.5.0) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/backports-3.5.0.gemspec
+I, [2014-02-05T09:32:34.226653 #14450]  INFO -- : 0:  diff-lcs (1.2.5) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-02-05T09:32:34.228016 #14450]  INFO -- : 0:  multi_json (1.8.4) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-05T09:32:34.228955 #14450]  INFO -- : 0:  rack (1.5.2) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/rack-1.5.2.gemspec
+I, [2014-02-05T09:32:34.229981 #14450]  INFO -- : 0:  rack-protection (1.5.2) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-05T09:32:34.231002 #14450]  INFO -- : 0:  rack-test (0.6.2) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-05T09:32:40.028944 #14450]  INFO -- : 0:  rspec-core (2.14.7) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/rspec-core-2.14.7.gemspec
+I, [2014-02-05T09:32:45.003543 #14450]  INFO -- : 0:  rspec-expectations (2.14.5) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-02-05T09:32:50.529220 #14450]  INFO -- : 0:  rspec-mocks (2.14.5) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/rspec-mocks-2.14.5.gemspec
+I, [2014-02-05T09:32:54.651562 #14450]  INFO -- : 0:  rspec (2.14.1) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/rspec-2.14.1.gemspec
+I, [2014-02-05T09:32:54.652610 #14450]  INFO -- : 0:  tilt (1.4.1) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/tilt-1.4.1.gemspec
+I, [2014-02-05T09:32:54.653796 #14450]  INFO -- : 0:  sinatra (1.4.4) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-05T09:32:54.654756 #14450]  INFO -- : 0:  sinatra-contrib (1.4.2) from /usr/local/rvm/gems/ruby-2.1.0@sinatra_jsonp/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-02-05T09:32:54.656048 #14450]  INFO -- : 0:  bundler (1.5.0) from /usr/local/rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
